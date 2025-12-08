@@ -1,5 +1,5 @@
 document.getElementById("info-btn").addEventListener("click", () => {
-    alert("hehe caught you (¬‿¬)");
+    alert("hehe caught you ;)");
 });
 
 const nameText = document.getElementById("name");
