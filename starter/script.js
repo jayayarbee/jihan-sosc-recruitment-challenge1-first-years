@@ -1,5 +1,5 @@
 document.getElementById("info-btn").addEventListener("click", () => {
-    alert("JS effect working!");
+    alert("hehe caught you (¬‿¬)");
 });
 
 const nameText = document.getElementById("name");
